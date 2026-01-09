@@ -1,6 +1,12 @@
 {
-  ";kyc": "Please complete KYC first. If already completed, send a screenshot showing your profitable days and consistency score.",
+  ";kyc": "Special Instant Account: Achieve 2.5% profit, maintain 20% consistency, and have at least 5 profitable days.
+Instant Pro Account: Achieve 4% profit, maintain 20% consistency, and have at least 5 profitable days.
+
+Once all these requirements are met, you can open a ticket on our Discord or website support, or send us an email showing your eligibility. After verification, we will send you the KYC link via email within 48 business hours, and you can proceed to complete your KYC.",
   ";consis": "Your consistency must be less than or equal to 20% to request a withdrawal. You must not exceed your highest profit day.",
-  ";delay": "We are currently experiencing higher volume. Our team will respond shortly.",
+  ";sl-rule": "Yes, all trades in the live phase must have a Stop Loss in place. While it doesn’t have to be set at the very start of the trade, it must be added before closing the trade.
+
+Trades without a Stop Loss are considered a violation of our rules. Depending on the severity, the Payout Processing Team may take actions such as profit split adjustments, account reset, or, in extreme cases, a hard breach. 
+",
   ";thanks": "Thank you for reaching out. Let us know if you need anything else."
 }
